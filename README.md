@@ -1,5 +1,5 @@
 # Librarian
-Librarian archives URLs without getting on your way.
+Librarian archives URLs without getting on your way. It automatically watches for URLs insertions and removals in markdown notes.
 
 ## User stories
 - I just want to automatically snapshot a webpage in case it get updated or removed. I don't need many features and as far as I care it can be a simple call to the [Wayback Machine](https://web.archive.org/). It just need to be automatic and effective.
