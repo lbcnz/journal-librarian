@@ -63,3 +63,6 @@ archivebox add < urls.txt
 # remove pages
 archivebox remove --yes --delete < urls.txt
 ```
+
+### Other tools
+- [SciHub.py](https://github.com/zaytoun/scihub.py)
